@@ -1,5 +1,5 @@
 package laon
 
 fun main(){
-  ty
+  home
 }
