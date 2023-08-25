@@ -14,5 +14,5 @@ fun fun1(): Boolean {
 
 fun fun2(): Boolean {
     println("fun 2")
-    return false
+    return true
 }
