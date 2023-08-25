@@ -8,7 +8,7 @@ fun main(){
 }
 
 fun fun1(): Boolean {
-    println("fun 1")
+    println("fun 122")
     return true
 }
 
