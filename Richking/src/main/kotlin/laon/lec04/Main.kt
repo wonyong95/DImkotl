@@ -1,4 +1,4 @@
-package laon
+package laon.lec04
 
 fun main(args: Array<String>) {
     val name="윤원용"

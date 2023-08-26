@@ -1,4 +1,4 @@
-package laon
+package laon.lec04
 
 fun main(){
 
