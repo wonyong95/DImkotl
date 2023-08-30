@@ -11,7 +11,7 @@ fun main(args: Array<String>) {
 """.trimIndent()
     println(str)
 
-    val str1= "ZXC"
+    val str1= "dbf"
     println(str[0])
     println(str[2])
 }
